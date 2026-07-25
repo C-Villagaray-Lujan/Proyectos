@@ -1,6 +1,5 @@
 import random
 
-
 def main():
     sign = presentation()
 
